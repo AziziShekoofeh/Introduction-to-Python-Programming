@@ -16,6 +16,7 @@ Two Excersices for during the workshop practice and one assignment in IPython ar
 - [Python Numpy Tutorial](http://cs231n.github.io/python-numpy-tutorial/)
 - [Interactive Python 3 tutorial](https://snakify.org/)
 
+
 ### Useful Links
 
 - https://snakify.org/
