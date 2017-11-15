@@ -12,6 +12,7 @@ The tutorial is designed for _BMEG 591M Workshop Series_ at _University of Briti
 
 Two Excersices for during the workshop practice and one assignment in IPython are also included.
 
+
 ### Credits
 - [Python Numpy Tutorial](http://cs231n.github.io/python-numpy-tutorial/)
 - [Interactive Python 3 tutorial](https://snakify.org/)
